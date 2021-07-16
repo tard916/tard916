@@ -44,7 +44,7 @@
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
 
 ## Stats
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=tard916&show_icons=true&theme=radical" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=tard916&count_private=true&theme=tokyonight&hide=contribs,prs,issues" />
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tard916&layout=compact" />
 
 <br />
