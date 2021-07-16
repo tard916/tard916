@@ -16,6 +16,9 @@
 
 ## Coding Stats
 <!--START_SECTION:waka-->
+```text
+JavaScript   3 mins          ██████████████████████▓░░   90.40 % 
+```
 <!--END_SECTION:waka-->
 
 
