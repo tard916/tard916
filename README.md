@@ -17,7 +17,9 @@
 ## Coding Stats
 <!--START_SECTION:waka-->
 ```text
-JavaScript   25 mins         ████████████████████████▓   98.11 % 
+JavaScript   6 hrs 30 mins   ████████████████████████▓   98.63 % 
+JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+TypeScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 ```
 <!--END_SECTION:waka-->
 
