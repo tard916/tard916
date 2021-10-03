@@ -17,11 +17,11 @@
 ## Coding Stats
 <!--START_SECTION:waka-->
 ```text
-YAML         9 hrs 4 mins    ██████████▒░░░░░░░░░░░░░░   41.66 % 
-TypeScript   4 hrs 9 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.05 % 
-Scala        3 hrs 6 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-JSX          2 hrs 17 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-JavaScript   1 hr 38 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+JavaScript   8 hrs 46 mins   ███████████▓░░░░░░░░░░░░░   46.70 % 
+YAML         5 hrs 1 min     ██████▓░░░░░░░░░░░░░░░░░░   26.71 % 
+TypeScript   1 hr 29 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+Markdown     1 hr 26 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+JSON         1 hr 18 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
 ```
 <!--END_SECTION:waka-->
 
