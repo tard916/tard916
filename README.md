@@ -67,10 +67,10 @@ YAML         50 mins         ▓░░░░░░░░░░░░░░░░
 
 # **My YouTube Videos** 
 <!-- YT_VIDEO_LIST:START -->
+- [Sniper Ghost Warrior Contract 2 walkthrough](https://www.youtube.com/watch?v=Kg_49ArOstQ)
+- [Sniper Ghost Warrior Contract 2 walkthrough](https://www.youtube.com/watch?v=wKrdW8ABmrc)
 - [Sniper Ghost Warrior Contract 2](https://www.youtube.com/watch?v=3HlP604EKBg)
 - [Sniper Ghost Warrior Contract 2](https://www.youtube.com/watch?v=KSQ-NBbHIwg)
 - [Truck Driver](https://www.youtube.com/watch?v=WV28GnW4mU0)
-- [GTA 5](https://www.youtube.com/watch?v=FJ3OKStUhCI)
-- [Need for speed HEAT](https://www.youtube.com/watch?v=BgG_g19wKPE)
 <!-- YT_VIDEO_LIST:END -->
 
