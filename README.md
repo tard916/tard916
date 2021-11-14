@@ -67,10 +67,10 @@ JSX          1 hr 1 min      █░░░░░░░░░░░░░░░░
 
 # **My YouTube Videos** 
 <!-- YT_VIDEO_LIST:START -->
+- [CALL OF DUTY  VANGUARD Walkthrough](https://www.youtube.com/watch?v=NiTfokEbTCg)
+- [CALL OF DUTY  VANGUARD Walkthrough](https://www.youtube.com/watch?v=E5HeqqoXzaU)
 - [Sniper Ghost Warrior Contract 2 walkthrough](https://www.youtube.com/watch?v=Kg_49ArOstQ)
 - [Sniper Ghost Warrior Contract 2 walkthrough](https://www.youtube.com/watch?v=wKrdW8ABmrc)
 - [Sniper Ghost Warrior Contract 2](https://www.youtube.com/watch?v=3HlP604EKBg)
-- [Sniper Ghost Warrior Contract 2](https://www.youtube.com/watch?v=KSQ-NBbHIwg)
-- [Truck Driver](https://www.youtube.com/watch?v=WV28GnW4mU0)
 <!-- YT_VIDEO_LIST:END -->
 
