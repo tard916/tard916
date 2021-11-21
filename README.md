@@ -17,11 +17,11 @@
 ## Coding Stats
 <!--START_SECTION:waka-->
 ```text
-TypeScript   3 hrs 32 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.04 % 
-Terraform    3 hrs 16 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.95 % 
-Markdown     2 hrs 36 mins   █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
-JSX          1 hr 19 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-JavaScript   1 hr 1 min      ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+TypeScript   11 hrs 34 mins  █████████████████░░░░░░░░   67.96 % 
+Bash         1 hr 30 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+JSON         1 hr 18 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+.env file    39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+JavaScript   25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 ```
 <!--END_SECTION:waka-->
 
