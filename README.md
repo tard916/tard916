@@ -17,11 +17,11 @@
 ## Coding Stats
 <!--START_SECTION:waka-->
 ```text
-TypeScript       5 hrs 47 mins   ███████████████▓░░░░░░░░░   62.70 % 
-JavaScript       1 hr 48 mins    █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
-GitIgnore file   28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-JSX              25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-Bash             17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+TypeScript   8 hrs 44 mins   ███████████████░░░░░░░░░░   60.64 % 
+JSON         3 hrs 13 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.38 % 
+JavaScript   43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+tsconfig     30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+Markdown     22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
 ```
 <!--END_SECTION:waka-->
 
