@@ -17,9 +17,11 @@
 ## Coding Stats
 <!--START_SECTION:waka-->
 ```text
-Scala        24 mins         ███████████░░░░░░░░░░░░░░   43.48 % 
-JavaScript   19 mins         ████████▓░░░░░░░░░░░░░░░░   34.85 % 
-TypeScript   12 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.67 % 
+TypeScript       8 hrs 41 mins   ██████████████████████░░░   87.74 % 
+JavaScript       43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+GitIgnore file   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+JSON             8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+.env file        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 ```
 <!--END_SECTION:waka-->
 
