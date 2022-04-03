@@ -18,9 +18,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   13 hrs 5 mins   █████████████████████████   99.95 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+TypeScript       11 hrs 9 mins   █████████████████░░░░░░░░   67.83 %
+JSON             2 hrs 28 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.07 %
+JavaScript       2 hrs 25 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.77 %
+GitIgnore file   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+Markdown         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+yarn.lock        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
