@@ -18,12 +18,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript       13 hrs 35 mins  █████████████████████▒░░░   85.35 %
-JSON             1 hr 8 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
-tsconfig         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
-.env file        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-YAML             12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
-GitIgnore file   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+TypeScript   7 hrs 10 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
