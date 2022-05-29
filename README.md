@@ -18,7 +18,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-Other            11 hrs 5 mins   █████████████████████████   100.00 %
+JavaScript       5 hrs 49 mins   ██████████████▒░░░░░░░░░░   56.71 %
+Markdown         1 hr 15 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.27 %
+Terraform        1 hr 2 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 %
+TypeScript       45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
+textmate         25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
+Bash             24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
 ```
 
 <!--END_SECTION:waka-->
