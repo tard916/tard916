@@ -18,7 +18,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-Other        48 hrs 5 mins   ██████████████████████▓░░   90.44 %
+JavaScript       5 hrs 26 mins   █████████████████░░░░░░░░   67.99 %
+TypeScript       1 hr 32 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.18 %
+GitIgnore file   17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
+JSON             16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+Bash             13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+textmate         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
 ```
 
 <!--END_SECTION:waka-->
