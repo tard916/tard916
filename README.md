@@ -18,11 +18,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript       1 hr 41 mins    ██████████████████▒░░░░░░   72.84 %
-JSON             19 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.11 %
-.env file        7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
-GitIgnore file   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
-TypeScript       3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
