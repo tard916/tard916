@@ -18,7 +18,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+GitIgnore file   0 secs          ███████████████████████░░   91.82 %
+JavaScript       0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
+JSON             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
 ```
 
 <!--END_SECTION:waka-->
