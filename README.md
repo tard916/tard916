@@ -18,9 +18,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-GitIgnore file   0 secs          ███████████████████████░░   91.82 %
-JavaScript       0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
-JSON             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+Other   7 hrs 29 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
