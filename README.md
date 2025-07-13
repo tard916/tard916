@@ -18,11 +18,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   3 hrs 36 mins   ████████████░░░░░░░░░░░░░   48.32 %
-CSV          1 hr 30 mins    █████░░░░░░░░░░░░░░░░░░░░   20.21 %
-CSV/TSV      1 hr 12 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.10 %
-Other        1 hr            ███▒░░░░░░░░░░░░░░░░░░░░░   13.40 %
-JSON         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
