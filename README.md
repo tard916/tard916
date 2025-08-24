@@ -18,11 +18,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other            1 hr            ███████████████▒░░░░░░░░░   60.90 %
-TypeScript       30 mins         ███████▓░░░░░░░░░░░░░░░░░   31.15 %
-CSV              5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
-Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
