@@ -18,9 +18,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other      1 hr            █████████████████████████   99.53 %
-textmate   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-Groovy     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
