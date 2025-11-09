@@ -18,7 +18,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other            1 hr            █████████▒░░░░░░░░░░░░░░░   37.76 %
+HTML             47 mins         ███████▒░░░░░░░░░░░░░░░░░   29.74 %
+YAML             20 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.92 %
+Markdown         15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 %
+GitIgnore file   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
 ```
 
 <!--END_SECTION:waka-->
