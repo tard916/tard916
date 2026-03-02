@@ -6,7 +6,7 @@
 
 ### Full-Stack Developer · Content Creator · Chess Player
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Angular+%7C+React+%7C+TypeScript+Engineer;Full-Stack+Developer+%40+ServiceRocket;Passionate+about+Clean+Code+%26+UX;Gamer+%7C+Chess+Player+%7C+Content+Creator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Angular+%7C+React+%7C+TypeScript+Engineer;Full-Stack+Developer+%40+ServiceRocket;AWS+%7C+Serverless+%7C+Cloud+Architecture;Gamer+%7C+Chess+Player+%7C+Content+Creator)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rahimi-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thierno-abdoul-rahim-diallo/)
 [![Email](https://img.shields.io/badge/Email-rahimi.diallo%40224tech.com-c0392b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahimi.diallo@224tech.com)
@@ -43,6 +43,18 @@
 ![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless_v3-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
