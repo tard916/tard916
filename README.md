@@ -11,6 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rahimi-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thierno-abdoul-rahim-diallo/)
 [![Email](https://img.shields.io/badge/Email-rahimi.diallo%40224tech.com-c0392b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahimi.diallo@224tech.com)
 [![YouTube](https://img.shields.io/badge/YouTube-tard916-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@tard916)
+[![Medium](https://img.shields.io/badge/Medium-rahimi.diallo-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rahimi.diallo)
 [![Profile Views](https://komarev.com/ghpvc/?username=tard916&style=for-the-badge&color=blueviolet)](https://github.com/tard916)
 
 </div>
@@ -73,6 +74,21 @@ Other      1 hr    ████████████████████�
 Markdown   0 secs  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 <!--END_SECTION:waka-->
+
+---
+
+## 📝 Latest Articles on Medium
+
+<!-- MEDIUM_POST_LIST:START -->
+- [💻 Unlocking the Power of Your Commit History: A Guide to Conventional Commits](https://medium.com/devops-dev/unlocking-the-power-of-your-commit-history-a-guide-to-conventional-commits-1468704bf85d)
+- [🇬🇳 Le Fardeau d'être Originaire d'un "Pays à Haut Risque" : L'Appel d'un Guinéen au Changement](https://medium.com/@rahimi.diallo/le-fardeau-d%C3%AAtre-originaire-d-un-pays-%C3%A0-haut-risque-l-appel-d-un-guin%C3%A9en-au-changement-6d56a053c345)
+- [🌍 The Burden of Being From a "High-Risk" Country: A Guinean's Call for Change](https://medium.com/@rahimi.diallo/the-burden-of-being-from-a-high-risk-country-a-guineans-call-for-change-0ea16248aa85)
+- [💪 The Power of Habits: Understanding Positive and Negative Compounding Effects](https://medium.com/@rahimi.diallo/the-power-of-habits-understanding-positive-and-negative-compounding-effects-9999c339eb6e)
+- [🧠 The Danger of Certitude: How Our Beliefs Can Blind Us to the Truth](https://medium.com/@rahimi.diallo/the-danger-of-certitude-how-our-beliefs-can-blind-us-to-the-truth-71a6690caa46)
+- [📖 Rationality and Acceptance: The Stoic Approach to Building Resilience](https://medium.com/@rahimi.diallo/rationality-and-acceptance-the-stoic-approach-to-building-resilience-31793d9ff6d5)
+<!-- MEDIUM_POST_LIST:END -->
+
+[📖 View all articles on Medium →](https://medium.com/@rahimi.diallo)
 
 ---
 
