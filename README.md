@@ -111,7 +111,7 @@ Markdown   0 secs  ░░░░░░░░░░░░░░░░░░░░�
 - [Call of Duty Modern Warfare 3 | 2024 | Full Game Playthrough part 1](https://www.youtube.com/watch?v=e4Z77vZeJjo)
 - [Sniper Ghost Warrior Contracts 2 PS5](https://www.youtube.com/watch?v=eoSFJj_IjPM)
 - [TypeForm Integration with Forge](https://www.youtube.com/watch?v=vI91yJLU1kQ)
-- [CALL OF DUTY VANGUARD Walkthrough](https://www.youtube.com/watch?v=NiTfokEbTCg)
+- [CALL OF DUTY  VANGUARD Walkthrough](https://www.youtube.com/watch?v=NiTfokEbTCg)
 <!-- YT_VIDEO_LIST:END -->
 
 ---
