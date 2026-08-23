@@ -83,11 +83,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other      1 hr                  ████████████████▓░░░░░░░░   67.26 %
-Groovy     28 mins               ████████░░░░░░░░░░░░░░░░░   32.36 %
-Python     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-JSON       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-Markdown   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
