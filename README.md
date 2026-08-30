@@ -108,11 +108,11 @@ No activity tracked
 ## 🎬 Latest YouTube Videos
 
 <!-- YT_VIDEO_LIST:START -->
+- [GTA 5](https://www.youtube.com/watch?v=Khj3BzeiSKk)
 - [Call of Duty Modern Warfare 3 | 2024 | Full Game Playthrough part 3](https://www.youtube.com/watch?v=85xJYYiSnMQ)
 - [Call of Duty Modern Warfare 3 | 2024 | Full Game Playthrough part 1](https://www.youtube.com/watch?v=e4Z77vZeJjo)
 - [Sniper Ghost Warrior Contracts 2 PS5](https://www.youtube.com/watch?v=eoSFJj_IjPM)
 - [TypeForm Integration with Forge](https://www.youtube.com/watch?v=vI91yJLU1kQ)
-- [CALL OF DUTY  VANGUARD Walkthrough](https://www.youtube.com/watch?v=NiTfokEbTCg)
 <!-- YT_VIDEO_LIST:END -->
 
 ---
