@@ -83,7 +83,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other      1 hr                  ███████████████▒░░░░░░░░░   61.76 %
+JSON       18 mins               ████▓░░░░░░░░░░░░░░░░░░░░   19.32 %
+Markdown   10 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.72 %
+Groovy     5 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
+textmate   2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
 ```
 
 <!--END_SECTION:waka-->
